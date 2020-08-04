@@ -1,5 +1,6 @@
 {
     "name": "Chaos Maze",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
