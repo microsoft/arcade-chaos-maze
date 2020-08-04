@@ -1,0 +1,23 @@
+{
+    "name": "Chaos Maze",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.0.16",
+        "tag": "v1.0.16",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/3d3129177a6331fa694e0eb095a96de316256656",
+        "target": "1.0.16",
+        "pxt": "6.1.42"
+    },
+    "preferredEditor": "blocksprj"
+}
