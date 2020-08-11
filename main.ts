@@ -3938,7 +3938,7 @@ function showInstructions () {
         f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f 
         `)
     game.showLongText("Wonder Woman needs your help! Collect all the artifacts, fight Barbara, and destroy the Shard of Chaos before it's too late!", DialogLayout.Full)
-    game.showLongText("To win:\nCollect 25 points\nRetrieve your lasso and defeat the Cheetah\nArmor up and destroy the Shard of Chaos", DialogLayout.Full)
+    game.showLongText("To win:\nCollect 25 points\nRetrieve your lasso and defeat Barbara Minerva\nArmor up and destroy the Shard of Chaos", DialogLayout.Full)
     scene.setBackgroundImage(img`
         f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f 
         f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f 
